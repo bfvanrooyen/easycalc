@@ -33,3 +33,6 @@
 
 # Vagrant
 .vagrant
+
+# Compiled EasyCalc
+EasyCalc
